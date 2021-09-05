@@ -20,6 +20,13 @@ firestore realtime database
 1. No oauth authentication
 2. Dirty codes
 
+## Execution Script
+Within project directory you can run:
+
+### `npm start`
+Runs the api in the development mode.\
+API is listening on url [http://localhost:8080](http://localhost:8080).
+
 ## References
 1. https://www.youtube.com/watch?v=h-234ageRjs&list=PLTz4e-DV_vK8yWuEjeHZd289ls70jZJh4&index=4
 2. https://www.youtube.com/watch?v=Ld4OGwpQ2Yk&list=PLTz4e-DV_vK8yWuEjeHZd289ls70jZJh4&index=5&t=1064s
